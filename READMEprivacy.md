@@ -1,12 +1,12 @@
-# Privacy Policy – twentybsport
+# Privacy Policy – twentybesport
 
 Last updated: 06 March 2026
 
-This Privacy Policy describes how twentybsport (the “App”) handles user data.
+This Privacy Policy describes how twentybesport (the “App”) handles user data.
 
 ## 1. Developer Information
 Developer: Dario –   
-Contact: Francomoiraghi@hotmail.com  
+Contact: Francomoiraghi2@hotmail.com  
 
 ## 2. Data Collection
 
@@ -42,4 +42,4 @@ Since no personal data is collected, there is no storage of user personal inform
 This Privacy Policy may be updated. Updates will be reflected on this page.
 
 If you have questions, contact:
-Francomoiraghi@hotmail.com 
+Francomoiraghi2@hotmail.com 
